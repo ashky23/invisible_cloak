@@ -1,3 +1,4 @@
+# This is the main module
 import cv2
 import numpy as np
 
